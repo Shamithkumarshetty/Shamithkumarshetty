@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Shamithkumarshetty/Shamithkumarshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Shamith Kumar Shetty**, a passionate coder eager to create and explore new technologies.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Front-End
+- **Languages**: HTML, CSS.
+- **Libraries & Frameworks**: React, TailwindCSS.
+
+### 🧑‍💻 Back-End
+- **Languages**: JavaScript.
+- **Frameworks & Runtime Environments**: Node.js, Express.
+- **Databases**: MySQL, MongoDB.
+
+### 🛠️ Tools
+- **Version Control**: GitHub.
+
+### 🌍 Other Languages and Technologies
+- Java, C
+
+## 🌐 Connect with Me
+- **Email**: shamithkumarshettyy@gmail.com.
+- **LinkedIn**:[https://www.linkedin.com/in/shamithkumarshetty/](https://www.linkedin.com/in/shamithkumarshetty/)
